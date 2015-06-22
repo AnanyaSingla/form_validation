@@ -121,16 +121,8 @@ app.post('/myaction',function(req,res){
 			var fs=require('fs');
 			var ques='Total duration:'+sum+'mins'+'\n';
 			doc = new PDF();                        //creating a new PDF object
-			doc.pipe(fs.createWriteStream('Question_Paper1'));  //creating a write stream 
-
-			fs.appendFile('quespaper.txt',ques,function(err,data)
-			{
-				if(!err)
-					console.log('data saved');
-				else
-					console.log(err);
-						
-			});
+			doc.pipe(fs.createWriteStream('Question_Paper2.pdf'));  //creating a write stream 
+			doc.text(ques.toString());
 			for(var i=0;i<7;i++)
 			{	
 				connection.query('select ques,op1,op2,op3,op4,duration from ques_bank where srno='+parseInt(arr1[i],10),function(err,rows,field)
@@ -138,14 +130,7 @@ app.post('/myaction',function(req,res){
 					if(!err)
 					{
 						var ques=rows[0].ques+'\na) '+rows[0].op1+' b) '+rows[0].op2+' c) '+rows[0].op3+' d) '+rows[0].op4+'    '+rows[0].duration+'min'+'\n\n';
-						fs.appendFile('quespaper.txt',ques,function(err,data)
-						{
-							if(!err)
-								console.log('data saved');
-							else
-								console.log(err);
-							
-						});
+						doc.text(ques.toString());
 					}
 					else
 						console.log('db error:'+err);
@@ -160,56 +145,29 @@ app.post('/myaction',function(req,res){
 					if(!err)
 					{
 						var ques=rows[0].ques+'     '+rows[0].duration+'min'+'\n\n';
-						fs.appendFile('quespaper.txt',ques,function(err,data)
-						{
-							if(!err)
-							{
-								count++;
-								console.log('data saved');
-								//Save text file data in pdf file
-								if(count==3)
-								{	
-									fs.readFile('quespaper.txt',function(err,data)
-									{
-										if(!err)
-										{	console.log(data.toString());
-											doc.text(data.toString());
-											doc.end();	
-											var pth=__dirname+"/"+'Question_Paper1';
-			//								var html="<a href="+pth+">Download Question Paper</a>";
-											//res.download(pth);
-											fs.readFile(pth,function(error,data){
-   											 if(error){
-       												res.json({'status':'error',msg:err});
-    										}else{
-       											res.writeHead(200, {"Content-Type": "application/pdf"});
-       												res.write(data);
-       															res.end();       
-    											}
-											});
-										}	
-									});
-
-								}
-							}
-							else
-								console.log(err);
-							
-						});
-						
-						
+						count++;
+						doc.text(ques.toString());
+						if(count==3)
+						{	
+							doc.end();	
+							connection.end();
+							var html="<a href=http://127.0.0.1:3000/downloads>Download Question Paper</a>";
+							res.send(html);
+						}
 					}
 					else
 						console.log('db error:'+err);
-				}
-				);
+				});
 			}
-			
 		}
 	  	else						
 	    	console.log('Error while performing Query.'+err);
-	}
-	);
-	
+	});
+});
+app.get('/downloads',function(req,res)
+{
+	var pth=__dirname+"/"+'Question_Paper2.pdf';
+	res.setHeader('Content_Type','application/pdf');
+	res.sendFile(pth);
 });
 app.listen(3000);
