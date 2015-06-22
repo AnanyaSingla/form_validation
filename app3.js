@@ -32,6 +32,7 @@ app.get('/myaction',function(req,res){
 		  password :'123',
 		  database : 'Question'
 		});
+
 		connection.connect();
 		var post={
 			name:req.query.nm,
