@@ -18,7 +18,7 @@ app.get('/myaction',function(req,res){
 		response="Email id is not valid.";
 	}
 
-	else if (req.query.nm == ""||req.query.nm.trim()=="")
+	else if (req.query.nm.trim()=="")
 	{
 		response="Name is blank";
 	}

@@ -25,6 +25,26 @@ app.get('/myaction',function(req,res){
 	else
 	{
 		
+		var mysql      = require('mysql');
+		var connection = mysql.createConnection({
+  			host     : 'localhost',
+			user     : 'root',
+		  password :'123',
+		  database : 'Question'
+		});
+		connection.connect();
+		var post={
+			name:req.query.nm,
+			email:req.query.mail
+		};
+		sql='insert into info1 SET ?';
+		connection.query(sql,post,function(err,fields) {
+		  if (!err)
+		    console.log('Form submitted');
+		  else						
+		    console.log('Error while performing Query.'+err);
+		});
+		connection.end();
 		fs.appendFile('file2.txt',html,function(err,data)
 		{
 			if(err)

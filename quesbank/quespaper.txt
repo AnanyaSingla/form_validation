@@ -1,0 +1,3735 @@
+Q1
+op1	op2	op3	op4
+Q1
+op1	op2	op3	op4
+Q1
+op1	op2	op3	op4
+Q1
+op1	op2	op3	op4
+Q1
+op1	op2	op3	op4
+Q1
+op1	op2	op3	op4
+Q1
+op1	op2	op3	op4
+Q63
+op1	op2	op3	op4
+Q62
+op1	op2	op3	op4
+Q49
+op1	op2	op3	op4
+Q53
+op1	op2	op3	op4
+Q55
+op1	op2	op3	op4
+Q25
+op1	op2	op3	op4
+Q32
+op1	op2	op3	op4
+Q15
+op1	op2	op3	op4
+2
+
+Q26
+op1	op2	op3	op4
+3
+
+Q65
+op1	op2	op3	op4
+8
+
+Q44
+op1	op2	op3	op4
+7
+
+Q20
+op1	op2	op3	op4
+2
+
+Q60
+op1	op2	op3	op4
+10
+
+Q42
+op1	op2	op3	op4
+7
+
+q11		15
+
+q10		5
+
+q3		10
+
+Total duration:87minsQ48
+op1	op2	op3	op4
+7min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q66
+op1	op2	op3	op4
+10min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q64
+op1	op2	op3	op4
+10min
+
+Q68
+op1	op2	op3	op4
+10min
+
+q18		15min
+
+q11		15min
+
+q19		5min
+
+Total duration:54mins
+Q7
+op1	op2	op3	op4
+1min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q2
+op1	op2	op3	op4
+1min
+
+Q8
+op1	op2	op3	op4
+1min
+
+Q45
+op1	op2	op3	op4
+7min
+
+Q30
+op1	op2	op3	op4
+3min
+
+Q40
+op1	op2	op3	op4
+5min
+
+q3		10min
+
+q7		15min
+
+q16		10min
+
+Total duration:74mins
+Q56
+op1	op2	op3	op4
+10min
+
+Q60
+op1	op2	op3	op4
+10min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q33
+op1	op2	op3	op4
+5min
+
+Q54
+op1	op2	op3	op4
+10min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q12
+op1	op2	op3	op4
+2min
+
+q3		10min
+
+q11		15min
+
+q2		15min
+
+Total duration:48mins
+Q8
+op1	op2	op3	op4
+1min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q48
+op1	op2	op3	op4
+7min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q43
+op1	op2	op3	op4
+7min
+
+q1		5min
+
+q19		5min
+
+q4		10min
+
+Total duration:57mins
+Q36
+op1	op2	op3	op4
+5min
+
+Q14
+op1	op2	op3	op4
+2min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q29
+op1	op2	op3	op4
+3min
+
+Q11
+op1	op2	op3	op4
+2min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q45
+op1	op2	op3	op4
+7min
+
+q7		15min
+
+q18		15min
+
+q10		5min
+
+Total duration:75mins
+Q3
+op1	op2	op3	op4
+1min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q58
+op1	op2	op3	op4
+10min
+
+Q40
+op1	op2	op3	op4
+5min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q5
+op1	op2	op3	op4
+1min
+
+q18		15min
+
+q12		15min
+
+q17		10min
+
+Total duration:80mins
+Q51
+op1	op2	op3	op4
+8min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q37
+op1	op2	op3	op4
+5min
+
+Q52
+op1	op2	op3	op4
+10min
+
+Q69
+op1	op2	op3	op4
+8min
+
+Q47
+op1	op2	op3	op4
+7min
+
+q7		15min
+
+q16		10min
+
+q13		15min
+
+Total duration:54mins
+Q57
+op1	op2	op3	op4
+8min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q29
+op1	op2	op3	op4
+3min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q63
+op1	op2	op3	op4
+8min
+
+q8		5min
+
+q5		10min
+
+q1		5min
+
+Total duration:77mins
+Q56
+op1	op2	op3	op4
+10min
+
+Q23
+op1	op2	op3	op4
+3min
+
+Q59
+op1	op2	op3	op4
+8min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q47
+op1	op2	op3	op4
+7min
+
+Q2
+op1	op2	op3	op4
+1min
+
+q2		15min
+
+q8		5min
+
+q12		15min
+
+Total duration:79mins
+Q56
+op1	op2	op3	op4
+10min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q59
+op1	op2	op3	op4
+8min
+
+Q62
+op1	op2	op3	op4
+10min
+
+q11		15min
+
+q14		10min
+
+q15		10min
+
+Total duration:58mins
+Q16
+op1	op2	op3	op4
+2min
+
+Q47
+op1	op2	op3	op4
+7min
+
+Q56
+op1	op2	op3	op4
+10min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q55
+op1	op2	op3	op4
+8min
+
+Q54
+op1	op2	op3	op4
+10min
+
+Q14
+op1	op2	op3	op4
+2min
+
+q5		10min
+
+q9		5min
+
+q1		5min
+
+Total duration:60mins
+Q22
+op1	op2	op3	op4
+3min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q13
+op1	op2	op3	op4
+2min
+
+Q14
+op1	op2	op3	op4
+2min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q33
+op1	op2	op3	op4
+5min
+
+Q61
+op1	op2	op3	op4
+8min
+
+q6		15min
+
+q17		10min
+
+q8		5min
+
+Total duration:45mins
+Q35
+op1	op2	op3	op4
+5min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q16
+op1	op2	op3	op4
+2min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q5
+op1	op2	op3	op4
+1min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q3
+op1	op2	op3	op4
+1min
+
+q9		5min
+
+q18		15min
+
+q19		5min
+
+Total duration:65mins
+Q16
+op1	op2	op3	op4
+2min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q38
+op1	op2	op3	op4
+5min
+
+Q63
+op1	op2	op3	op4
+8min
+
+Q7
+op1	op2	op3	op4
+1min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q27
+op1	op2	op3	op4
+3min
+
+q11		15min
+
+q6		15min
+
+q16		10min
+
+Total duration:56mins
+Q19
+op1	op2	op3	op4
+2min
+
+Q18
+op1	op2	op3	op4
+2min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q27
+op1	op2	op3	op4
+3min
+
+Q66
+op1	op2	op3	op4
+10min
+
+Q51
+op1	op2	op3	op4
+8min
+
+Q62
+op1	op2	op3	op4
+10min
+
+q19		5min
+
+q15		10min
+
+q8		5min
+
+Total duration:52mins
+Q2
+op1	op2	op3	op4
+1min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q26
+op1	op2	op3	op4
+3min
+
+Q40
+op1	op2	op3	op4
+5min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q17
+op1	op2	op3	op4
+2min
+
+q14		10min
+
+q4		10min
+
+q3		10min
+
+Total duration:78mins
+Q21
+op1	op2	op3	op4
+3min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q17
+op1	op2	op3	op4
+2min
+
+Q69
+op1	op2	op3	op4
+8min
+
+q11		15min
+
+q13		15min
+
+q17		10min
+
+Total duration:70mins
+Q16
+op1	op2	op3	op4
+2min
+
+Q11
+op1	op2	op3	op4
+2min
+
+Q64
+op1	op2	op3	op4
+10min
+
+Q66
+op1	op2	op3	op4
+10min
+
+Q5
+op1	op2	op3	op4
+1min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q33
+op1	op2	op3	op4
+5min
+
+q5		10min
+
+q16		10min
+
+q2		15min
+
+Total duration:75mins
+Q10
+op1	op2	op3	op4
+1min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q69
+op1	op2	op3	op4
+8min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q64
+op1	op2	op3	op4
+10min
+
+Q14
+op1	op2	op3	op4
+2min
+
+Q62
+op1	op2	op3	op4
+10min
+
+q12		15min
+
+q13		15min
+
+q18		15min
+
+Total duration:49mins
+Q13
+op1	op2	op3	op4
+2min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q34
+op1	op2	op3	op4
+5min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q25
+op1	op2	op3	op4
+3min
+
+q15		10min
+
+q19		5min
+
+q9		5min
+
+Total duration:74mins
+Q10
+op1	op2	op3	op4
+1min
+
+Q67
+op1	op2	op3	op4
+8min
+
+Q38
+op1	op2	op3	op4
+5min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q28
+op1	op2	op3	op4
+3min
+
+Q63
+op1	op2	op3	op4
+8min
+
+Q33
+op1	op2	op3	op4
+5min
+
+q5		10min
+
+q6		15min
+
+q2		15min
+
+Total duration:68mins
+Q64
+op1	op2	op3	op4
+10min
+
+Q27
+op1	op2	op3	op4
+3min
+
+Q37
+op1	op2	op3	op4
+5min
+
+Q59
+op1	op2	op3	op4
+8min
+
+Q42
+op1	op2	op3	op4
+7min
+
+Q17
+op1	op2	op3	op4
+2min
+
+Q52
+op1	op2	op3	op4
+10min
+
+q2		15min
+
+q10		5min
+
+q8		5min
+
+Total duration:69mins
+Q36
+op1	op2	op3	op4
+5min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q48
+op1	op2	op3	op4
+7min
+
+Q52
+op1	op2	op3	op4
+10min
+
+Q53
+op1	op2	op3	op4
+8min
+
+q11		15min
+
+q9		5min
+
+q4		10min
+
+Total duration:54mins
+Q66
+op1	op2	op3	op4
+10min
+
+Q2
+op1	op2	op3	op4
+1min
+
+Q18
+op1	op2	op3	op4
+2min
+
+Q20
+op1	op2	op3	op4
+2min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q27
+op1	op2	op3	op4
+3min
+
+q8		5min
+
+q2		15min
+
+q4		10min
+
+Total duration:67mins
+Q13
+op1	op2	op3	op4
+2min
+
+Q67
+op1	op2	op3	op4
+8min
+
+Q23
+op1	op2	op3	op4
+3min
+
+Q70
+op1	op2	op3	op4
+10min
+
+Q26
+op1	op2	op3	op4
+3min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q60
+op1	op2	op3	op4
+10min
+
+q16		10min
+
+q1		5min
+
+q11		15min
+
+Total duration:78mins
+Q18
+op1	op2	op3	op4
+2min
+
+Q67
+op1	op2	op3	op4
+8min
+
+Q52
+op1	op2	op3	op4
+10min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q14
+op1	op2	op3	op4
+2min
+
+Q64
+op1	op2	op3	op4
+10min
+
+q6		15min
+
+q2		15min
+
+q15		10min
+
+Total duration:57mins
+Q20
+op1	op2	op3	op4
+2min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q58
+op1	op2	op3	op4
+10min
+
+Q8
+op1	op2	op3	op4
+1min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q63
+op1	op2	op3	op4
+8min
+
+Q65
+op1	op2	op3	op4
+8min
+
+q3		10min
+
+q8		5min
+
+q1		5min
+
+Total duration:72mins
+Q38
+op1	op2	op3	op4
+5min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q59
+op1	op2	op3	op4
+8min
+
+Q37
+op1	op2	op3	op4
+5min
+
+Q33
+op1	op2	op3	op4
+5min
+
+Q18
+op1	op2	op3	op4
+2min
+
+Q46
+op1	op2	op3	op4
+7min
+
+q12		15min
+
+q5		10min
+
+q6		15min
+
+Total duration:66mins
+Q63
+op1	op2	op3	op4
+8min
+
+Q18
+op1	op2	op3	op4
+2min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q28
+op1	op2	op3	op4
+3min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q48
+op1	op2	op3	op4
+7min
+
+q18		15min
+
+q1		5min
+
+q13		15min
+
+Total duration:63mins
+Q50
+op1	op2	op3	op4
+7min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q11
+op1	op2	op3	op4
+2min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q65
+op1	op2	op3	op4
+8min
+
+q16		10min
+
+q17		10min
+
+q4		10min
+
+Total duration:75mins
+Q41
+op1	op2	op3	op4
+7min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q37
+op1	op2	op3	op4
+5min
+
+Q35
+op1	op2	op3	op4
+5min
+
+Q58
+op1	op2	op3	op4
+10min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q32
+op1	op2	op3	op4
+5min
+
+q14		10min
+
+q6		15min
+
+q4		10min
+
+Total duration:53mins
+Q67
+op1	op2	op3	op4
+8min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q20
+op1	op2	op3	op4
+2min
+
+Q12
+op1	op2	op3	op4
+2min
+
+Q17
+op1	op2	op3	op4
+2min
+
+Q6
+op1	op2	op3	op4
+1min
+
+q14		10min
+
+q19		5min
+
+q5		10min
+
+Total duration:75mins
+Q32
+op1	op2	op3	op4
+5min
+
+Q69
+op1	op2	op3	op4
+8min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q42
+op1	op2	op3	op4
+7min
+
+Q8
+op1	op2	op3	op4
+1min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q16
+op1	op2	op3	op4
+2min
+
+q13		15min
+
+q3		10min
+
+q18		15min
+
+Total duration:64mins
+Q40
+op1	op2	op3	op4
+5min
+
+Q34
+op1	op2	op3	op4
+5min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q4
+op1	op2	op3	op4
+1min
+
+q8		5min
+
+q12		15min
+
+q4		10min
+
+Total duration:64mins
+Q60
+op1	op2	op3	op4
+10min
+
+Q12
+op1	op2	op3	op4
+2min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q34
+op1	op2	op3	op4
+5min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q8
+op1	op2	op3	op4
+1min
+
+q8		5min
+
+q3		10min
+
+q2		15min
+
+Total duration:65mins
+Q22
+op1	op2	op3	op4
+3min
+
+Q27
+op1	op2	op3	op4
+3min
+
+Q20
+op1	op2	op3	op4
+2min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q16
+op1	op2	op3	op4
+2min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q30
+op1	op2	op3	op4
+3min
+
+q10		5min
+
+q7		15min
+
+q13		15min
+
+Total duration:59mins
+Q36
+op1	op2	op3	op4
+5min
+
+Q68
+op1	op2	op3	op4
+10min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q65
+op1	op2	op3	op4
+8min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q5
+op1	op2	op3	op4
+1min
+
+Q39
+op1	op2	op3	op4
+5min
+
+q8		5min
+
+q19		5min
+
+q18		15min
+
+Total duration:55mins
+Q8
+op1	op2	op3	op4
+1min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q35
+op1	op2	op3	op4
+5min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q55
+op1	op2	op3	op4
+8min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q21
+op1	op2	op3	op4
+3min
+
+q20		5min
+
+q16		10min
+
+q15		10min
+
+Total duration:71mins
+Q4
+op1	op2	op3	op4
+1min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q13
+op1	op2	op3	op4
+2min
+
+Q51
+op1	op2	op3	op4
+8min
+
+Q40
+op1	op2	op3	op4
+5min
+
+Q67
+op1	op2	op3	op4
+8min
+
+q11		15min
+
+q14		10min
+
+q4		10min
+
+Total duration:67mins
+Q66
+op1	op2	op3	op4
+10min
+
+Q48
+op1	op2	op3	op4
+7min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q38
+op1	op2	op3	op4
+5min
+
+Q45
+op1	op2	op3	op4
+7min
+
+Q2
+op1	op2	op3	op4
+1min
+
+Q14
+op1	op2	op3	op4
+2min
+
+q15		10min
+
+q4		10min
+
+q17		10min
+
+Total duration:66mins
+Q11
+op1	op2	op3	op4
+2min
+
+Q33
+op1	op2	op3	op4
+5min
+
+Q8
+op1	op2	op3	op4
+1min
+
+Q47
+op1	op2	op3	op4
+7min
+
+Q7
+op1	op2	op3	op4
+1min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q38
+op1	op2	op3	op4
+5min
+
+q5		10min
+
+q6		15min
+
+q3		10min
+
+Total duration:59mins
+Q40
+op1	op2	op3	op4
+5min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q62
+op1	op2	op3	op4
+10min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q20
+op1	op2	op3	op4
+2min
+
+Q13
+op1	op2	op3	op4
+2min
+
+Q53
+op1	op2	op3	op4
+8min
+
+q6		15min
+
+q19		5min
+
+q1		5min
+
+Total duration:79mins
+Q47
+op1	op2	op3	op4
+7min
+
+Q23
+op1	op2	op3	op4
+3min
+
+Q35
+op1	op2	op3	op4
+5min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q56
+op1	op2	op3	op4
+10min
+
+q11		15min
+
+q17		10min
+
+q7		15min
+
+Total duration:67mins
+Q35
+op1	op2	op3	op4
+5min
+
+Q70
+op1	op2	op3	op4
+10min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q38
+op1	op2	op3	op4
+5min
+
+Q8
+op1	op2	op3	op4
+1min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q29
+op1	op2	op3	op4
+3min
+
+q15		10min
+
+q4		10min
+
+q11		15min
+
+Total duration:68mins
+Q3
+op1	op2	op3	op4
+1min
+
+Q65
+op1	op2	op3	op4
+8min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q45
+op1	op2	op3	op4
+7min
+
+Q53
+op1	op2	op3	op4
+8min
+
+Q37
+op1	op2	op3	op4
+5min
+
+q2		15min
+
+q5		10min
+
+q14		10min
+
+Total duration:66mins
+Q65
+op1	op2	op3	op4
+8min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q49
+op1	op2	op3	op4
+7min
+
+Q28
+op1	op2	op3	op4
+3min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q43
+op1	op2	op3	op4
+7min
+
+q6		15min
+
+q17		10min
+
+q14		10min
+
+Total duration:75mins
+Q50
+op1	op2	op3	op4
+7min
+
+Q70
+op1	op2	op3	op4
+10min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q9
+op1	op2	op3	op4
+1min
+
+q18		15min
+
+q15		10min
+
+q13		15min
+
+Total duration:65mins
+Q45
+op1	op2	op3	op4
+7min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q58
+op1	op2	op3	op4
+10min
+
+Q53
+op1	op2	op3	op4
+8min
+
+Q5
+op1	op2	op3	op4
+1min
+
+Q49
+op1	op2	op3	op4
+7min
+
+Q16
+op1	op2	op3	op4
+2min
+
+q8		5min
+
+q5		10min
+
+q15		10min
+
+Total duration:74mins
+Q41
+op1	op2	op3	op4
+7min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q12
+op1	op2	op3	op4
+2min
+
+Q53
+op1	op2	op3	op4
+8min
+
+Total duration:77mins
+Q68
+op1	op2	op3	op4
+10min
+
+Q64
+op1	op2	op3	op4
+10min
+
+Q40
+op1	op2	op3	op4
+5min
+
+Q18
+op1	op2	op3	op4
+2min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q12
+op1	op2	op3	op4
+2min
+
+Q51
+op1	op2	op3	op4
+8min
+
+q9		5min
+
+q18		15min
+
+q16		10min
+
+Total duration:77mins
+Q52
+op1	op2	op3	op4
+10min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q60
+op1	op2	op3	op4
+10min
+
+Q67
+op1	op2	op3	op4
+8min
+
+Q58
+op1	op2	op3	op4
+10min
+
+Q17
+op1	op2	op3	op4
+2min
+
+Q66
+op1	op2	op3	op4
+10min
+
+q4		10min
+
+q1		5min
+
+q2		15min
+
+Total duration:79mins
+Q23
+op1	op2	op3	op4
+3min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q66
+op1	op2	op3	op4
+10min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q57
+op1	op2	op3	op4
+8min
+
+Q49
+op1	op2	op3	op4
+7min
+
+q13		15min
+
+q16		10min
+
+q5		10min
+
+Total duration:66mins
+Q46
+op1	op2	op3	op4
+7min
+
+Q20
+op1	op2	op3	op4
+2min
+
+Q51
+op1	op2	op3	op4
+8min
+
+Q64
+op1	op2	op3	op4
+10min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q7
+op1	op2	op3	op4
+1min
+
+Q52
+op1	op2	op3	op4
+10min
+
+q17		10min
+
+q4		10min
+
+q9		5min
+
+Total duration:60mins
+Q34
+op1	op2	op3	op4
+5min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q38
+op1	op2	op3	op4
+5min
+
+Q13
+op1	op2	op3	op4
+2min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q65
+op1	op2	op3	op4
+8min
+
+q2		15min
+
+q8		5min
+
+q17		10min
+
+Total duration:59mins
+Q23
+op1	op2	op3	op4
+3min
+
+Q7
+op1	op2	op3	op4
+1min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q30
+op1	op2	op3	op4
+3min
+
+Q18
+op1	op2	op3	op4
+2min
+
+Q53
+op1	op2	op3	op4
+8min
+
+Q47
+op1	op2	op3	op4
+7min
+
+q9		5min
+
+q11		15min
+
+q16		10min
+
+Total duration:70mins
+Q58
+op1	op2	op3	op4
+10min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q30
+op1	op2	op3	op4
+3min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q47
+op1	op2	op3	op4
+7min
+
+Q26
+op1	op2	op3	op4
+3min
+
+q18		15min
+
+q6		15min
+
+q16		10min
+
+Total duration:61mins
+Q24
+op1	op2	op3	op4
+3min
+
+Q11
+op1	op2	op3	op4
+2min
+
+Q55
+op1	op2	op3	op4
+8min
+
+Q34
+op1	op2	op3	op4
+5min
+
+Q26
+op1	op2	op3	op4
+3min
+
+Q22
+op1	op2	op3	op4
+3min
+
+Q14
+op1	op2	op3	op4
+2min
+
+q16		10min
+
+q2		15min
+
+q15		10min
+
+Total duration:75mins
+Q66
+op1	op2	op3	op4
+10min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q13
+op1	op2	op3	op4
+2min
+
+Q60
+op1	op2	op3	op4
+10min
+
+q12		15min
+
+q4		10min
+
+q18		15min
+
+Total duration:79mins
+Q57
+op1	op2	op3	op4
+8min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q34
+op1	op2	op3	op4
+5min
+
+Q49
+op1	op2	op3	op4
+7min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q16
+op1	op2	op3	op4
+2min
+
+Q59
+op1	op2	op3	op4
+8min
+
+q5		10min
+
+q18		15min
+
+q4		10min
+
+Total duration:73mins
+Q10
+op1	op2	op3	op4
+1min
+
+Q63
+op1	op2	op3	op4
+8min
+
+Q1
+op1	op2	op3	op4
+1min
+
+Q2
+op1	op2	op3	op4
+1min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q67
+op1	op2	op3	op4
+8min
+
+Q34
+op1	op2	op3	op4
+5min
+
+q2		15min
+
+q7		15min
+
+q14		10min
+
+Total duration:75mins
+Q4
+op1	op2	op3	op4
+1min
+
+Q53
+op1	op2	op3	op4
+8min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q67
+op1	op2	op3	op4
+8min
+
+Q56
+op1	op2	op3	op4
+10min
+
+Q23
+op1	op2	op3	op4
+3min
+
+Q63
+op1	op2	op3	op4
+8min
+
+q1		5min
+
+q3		10min
+
+q11		15min
+
+Total duration:65mins
+Q48
+op1	op2	op3	op4
+7min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q45
+op1	op2	op3	op4
+7min
+
+Q2
+op1	op2	op3	op4
+1min
+
+Q65
+op1	op2	op3	op4
+8min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q38
+op1	op2	op3	op4
+5min
+
+q5		10min
+
+q4		10min
+
+q1		5min
+
+Total duration:51mins
+Q34
+op1	op2	op3	op4
+5min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q16
+op1	op2	op3	op4
+2min
+
+Q20
+op1	op2	op3	op4
+2min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q6
+op1	op2	op3	op4
+1min
+
+q12		15min
+
+q16		10min
+
+q10		5min
+
+Total duration:69mins
+Q18
+op1	op2	op3	op4
+2min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q54
+op1	op2	op3	op4
+10min
+
+Q27
+op1	op2	op3	op4
+3min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q56
+op1	op2	op3	op4
+10min
+
+Q33
+op1	op2	op3	op4
+5min
+
+q19		5min
+
+q13		15min
+
+q2		15min
+
+Total duration:62mins
+Q62
+op1	op2	op3	op4
+10min
+
+Q40
+op1	op2	op3	op4
+5min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q39
+op1	op2	op3	op4
+5min
+
+Q11
+op1	op2	op3	op4
+2min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q26
+op1	op2	op3	op4
+3min
+
+q20		5min
+
+q19		5min
+
+q17		10min
+
+Total duration:61mins
+Q62
+op1	op2	op3	op4
+10min
+
+Q29
+op1	op2	op3	op4
+3min
+
+Q17
+op1	op2	op3	op4
+2min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q32
+op1	op2	op3	op4
+5min
+
+q17		10min
+
+q16		10min
+
+q1		5min
+
+Total duration:50mins
+Q51
+op1	op2	op3	op4
+8min
+
+Q17
+op1	op2	op3	op4
+2min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q7
+op1	op2	op3	op4
+1min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q22
+op1	op2	op3	op4
+3min
+
+q1		5min
+
+q10		5min
+
+q14		10min
+
+Total duration:57mins
+Q8
+op1	op2	op3	op4
+1min
+
+Q12
+op1	op2	op3	op4
+2min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q18
+op1	op2	op3	op4
+2min
+
+q17		10min
+
+q2		15min
+
+q15		10min
+
+Total duration:54mins
+Q47
+op1	op2	op3	op4
+7min
+
+Q48
+op1	op2	op3	op4
+7min
+
+Q9
+op1	op2	op3	op4
+1min
+
+Q31
+op1	op2	op3	op4
+5min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q8
+op1	op2	op3	op4
+1min
+
+q5		10min
+
+q14		10min
+
+q9		5min
+
+Total duration:65mins
+Q68
+op1	op2	op3	op4
+10min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q47
+op1	op2	op3	op4
+7min
+
+Q38
+op1	op2	op3	op4
+5min
+
+Q29
+op1	op2	op3	op4
+3min
+
+Q37
+op1	op2	op3	op4
+5min
+
+Q54
+op1	op2	op3	op4
+10min
+
+q1		5min
+
+q1		5min
+
+q15		10min
+
+Total duration:62mins
+Q7
+op1	op2	op3	op4
+1min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q52
+op1	op2	op3	op4
+10min
+
+Q3
+op1	op2	op3	op4
+1min
+
+Q8
+op1	op2	op3	op4
+1min
+
+Q29
+op1	op2	op3	op4
+3min
+
+q11		15min
+
+q12		15min
+
+q16		10min
+
+Total duration:62mins
+Q54
+op1	op2	op3	op4
+10min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q13
+op1	op2	op3	op4
+2min
+
+Q23
+op1	op2	op3	op4
+3min
+
+Q50
+op1	op2	op3	op4
+7min
+
+Q41
+op1	op2	op3	op4
+7min
+
+Q37
+op1	op2	op3	op4
+5min
+
+q10		5min
+
+q13		15min
+
+q20		5min
+
+Total duration:65mins
+Q56
+op1	op2	op3	op4
+10min
+
+Q60
+op1	op2	op3	op4
+10min
+
+Q24
+op1	op2	op3	op4
+3min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q48
+op1	op2	op3	op4
+7min
+
+Q36
+op1	op2	op3	op4
+5min
+
+Q14
+op1	op2	op3	op4
+2min
+
+q17		10min
+
+q1		5min
+
+q15		10min
+
+Total duration:70mins
+Q50
+op1	op2	op3	op4
+7min
+
+Q32
+op1	op2	op3	op4
+5min
+
+Q44
+op1	op2	op3	op4
+7min
+
+Q61
+op1	op2	op3	op4
+8min
+
+Q63
+op1	op2	op3	op4
+8min
+
+Q56
+op1	op2	op3	op4
+10min
+
+Q58
+op1	op2	op3	op4
+10min
+
+q8		5min
+
+q10		5min
+
+q1		5min
+
+Total duration:56mins
+Q25
+op1	op2	op3	op4
+3min
+
+Q66
+op1	op2	op3	op4
+10min
+
+Q33
+op1	op2	op3	op4
+5min
+
+Q21
+op1	op2	op3	op4
+3min
+
+Q27
+op1	op2	op3	op4
+3min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q4
+op1	op2	op3	op4
+1min
+
+q2		15min
+
+q14		10min
+
+q19		5min
+
+Total duration:69mins
+Q29
+op1	op2	op3	op4
+3min
+
+Q10
+op1	op2	op3	op4
+1min
+
+Q56
+op1	op2	op3	op4
+10min
+
+Q60
+op1	op2	op3	op4
+10min
+
+Q19
+op1	op2	op3	op4
+2min
+
+Q15
+op1	op2	op3	op4
+2min
+
+Q31
+op1	op2	op3	op4
+5min
+
+q12		15min
+
+q15		10min
+
+q2		15min
+
+Total duration:65mins
+Q29
+op1	op2	op3	op4
+3min
+
+Q60
+op1	op2	op3	op4
+10min
+
+Q43
+op1	op2	op3	op4
+7min
+
+Q25
+op1	op2	op3	op4
+3min
+
+Q55
+op1	op2	op3	op4
+8min
+
+Q6
+op1	op2	op3	op4
+1min
+
+Q63
+op1	op2	op3	op4
+8min
+
+q16		10min
+
+q20		5min
+
+q5		10min
+
+Total duration:64mins
+Q54
+op1	op2	op3	op4
+10min
+
+Q4
+op1	op2	op3	op4
+1min
+
+Q47
+op1	op2	op3	op4
+7min
+
+Q2
+op1	op2	op3	op4
+1min
+
+Q52
+op1	op2	op3	op4
+10min
+
+Q46
+op1	op2	op3	op4
+7min
+
+Q59
+op1	op2	op3	op4
+8min
+
+q1		5min
+
+q8		5min
+
+q16		10min
+
+Total duration:58mins
+Q40
+op1	op2	op3	op4			5min
+
+Q27
+op1	op2	op3	op4			3min
+
+Q57
+op1	op2	op3	op4			8min
+
+Q65
+op1	op2	op3	op4			8min
+
+Q39
+op1	op2	op3	op4			5min
+
+Q5
+op1	op2	op3	op4			1min
+
+Q30
+op1	op2	op3	op4			3min
+
+q8			5min
+
+q5			10min
+
+q4			10min
+
+Total duration:63mins
+Q52
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q4
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q5
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q54
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q62
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q1
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q60
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+q14			10min
+
+q1			5min
+
+q1			5min
+
+Total duration:64mins
+Q39
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q26
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q44
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q63
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q20
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q17
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q48
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+q16			10min
+
+q10			5min
+
+q11			15min
+
+Total duration:59mins
+Q40
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q55
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q39
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q2
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q58
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q29
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+q7			15min
+
+q8			5min
+
+q20			5min
+
+Q14
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Total duration:63mins
+Q40
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q11
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q57
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q21
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q24
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q62
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q43
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+q5			10min
+
+q20			5min
+
+q3			10min
+
+Total duration:60mins
+Q8
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q38
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q28
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q29
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q56
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q25
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q52
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+q15			10min
+
+q9			5min
+
+q3			10min
+
+Total duration:61mins
+Q33
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q51
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q44
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q3
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q49
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q1
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q42
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+q20			5min
+
+q14			10min
+
+q5			10min
+
+Total duration:63mins
+Q18
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q31
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Total duration:61mins
+Total duration:67mins
+Q53
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q50
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q38
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q70
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q45
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q49
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Total duration:57mins
+Total duration:61mins
+Q18
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q53
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q25
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q37
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q46
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q34
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q7
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+q1			5min
+
+q12			15min
+
+q5			10min
+
+Total duration:54mins
+Q47
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q1
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Total duration:65mins
+Total duration:68mins
+Q18
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q43
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q44
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q9
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q34
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q62
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Total duration:53mins
+Q4
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q9
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q6
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q30
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q37
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q15
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q64
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+q12			15min
+
+q9			5min
+
+q15			10min
+
+Total duration:67mins
+Q9
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q64
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q43
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q63
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q58
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q55
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q30
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+q8			5min
+
+q1			5min
+
+q15			10min
+
+Total duration:51mins
+Q8
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q56
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Total duration:70mins
+Total duration:61mins
+Q58
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q21
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q54
+a)	op1	b)	op2	c)	op3	d)	op4			10min
+
+Q16
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q55
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q59
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Total duration:60mins
+Q10
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q16
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q42
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q26
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q31
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q48
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q35
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+q1			5min
+
+q7			15min
+
+q15			10min
+
+Total duration:56mins
+Q12
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q2
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q36
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+Q59
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q11
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q30
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q33
+a)	op1	b)	op2	c)	op3	d)	op4			5min
+
+q2			15min
+
+q8			5min
+
+q5			10min
+
+Total duration:62mins
+Q20
+a)	op1	b)	op2	c)	op3	d)	op4			2min
+
+Q51
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q57
+a)	op1	b)	op2	c)	op3	d)	op4			8min
+
+Q25
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+Q6
+a)	op1	b)	op2	c)	op3	d)	op4			1min
+
+Q50
+a)	op1	b)	op2	c)	op3	d)	op4			7min
+
+Q23
+a)	op1	b)	op2	c)	op3	d)	op4			3min
+
+q6			15min
+
+q15			10min
+
+q8			5min
+
+Total duration:66mins
+Q8
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q2
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q47
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q45
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q68
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q11
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q23
+a) op1 b) op2 c) op3 d) op4    3min
+
+q18     15min
+
+q1     5min
+
+q11     15min
+
+Total duration:65mins
+Q66
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q47
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q10
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q13
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q63
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q14
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q58
+a) op1 b) op2 c) op3 d) op4    10min
+
+q5     10min
+
+q1     5min
+
+q3     10min
+
+Total duration:59mins
+Q30
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q3
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q59
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q18
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q63
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q54
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q13
+a) op1 b) op2 c) op3 d) op4    2min
+
+q12     15min
+
+q8     5min
+
+q20     5min
+
+Total duration:66mins
+Q34
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q46
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q1
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q67
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q45
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q21
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q70
+a) op1 b) op2 c) op3 d) op4    10min
+
+q1     5min
+
+q10     5min
+
+q12     15min
+
+Total duration:55mins
+Q41
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q25
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q2
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q14
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q6
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q36
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q9
+a) op1 b) op2 c) op3 d) op4    1min
+
+q2     15min
+
+q10     5min
+
+q12     15min
+
+Total duration:61mins
+Q69
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q59
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q54
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q27
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q19
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q37
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q56
+a) op1 b) op2 c) op3 d) op4    10min
+
+q9     5min
+
+q1     5min
+
+q1     5min
+
+Total duration:61mins
+Q60
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q10
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q21
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q58
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q49
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q36
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q31
+a) op1 b) op2 c) op3 d) op4    5min
+
+q14     10min
+
+q1     5min
+
+q19     5min
+
+Total duration:51mins
+Q21
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q62
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q34
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q67
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q4
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q15
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q12
+a) op1 b) op2 c) op3 d) op4    2min
+
+q10     5min
+
+q17     10min
+
+q8     5min
+
+Total duration:68mins
+Q16
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q55
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q5
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q49
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q69
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q8
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q3
+a) op1 b) op2 c) op3 d) op4    1min
+
+q11     15min
+
+q6     15min
+
+q14     10min
+
+Total duration:51mins
+Q18
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q21
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q50
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q22
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q14
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q16
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q17
+a) op1 b) op2 c) op3 d) op4    2min
+
+q7     15min
+
+q4     10min
+
+q10     5min
+
+Total duration:55mins
+Q23
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q4
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q53
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q27
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q36
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q30
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q46
+a) op1 b) op2 c) op3 d) op4    7min
+
+q8     5min
+
+q19     5min
+
+q18     15min
+
+Total duration:66mins
+Q49
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q21
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q53
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q33
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q65
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q29
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q43
+a) op1 b) op2 c) op3 d) op4    7min
+
+q1     5min
+
+q15     10min
+
+q4     10min
+
+Total duration:60mins
+Q50
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q21
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q7
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q16
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q37
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q11
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q62
+a) op1 b) op2 c) op3 d) op4    10min
+
+q7     15min
+
+q3     10min
+
+q10     5min
+
+Total duration:68mins
+Q65
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q35
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q13
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q6
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q38
+a) op1 b) op2 c) op3 d) op4    5min
+
+q5     10min
+
+q1     5min
+
+Q49
+a) op1 b) op2 c) op3 d) op4    7min
+
+q2     15min
+
+Q52
+a) op1 b) op2 c) op3 d) op4    10min
+
+Total duration:63mins
+Q69
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q11
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q4
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q6
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q18
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q10
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q65
+a) op1 b) op2 c) op3 d) op4    8min
+
+q6     15min
+
+q3     10min
+
+q7     15min
+
+Total duration:63mins
+Q22
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q48
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q55
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q34
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q31
+a) op1 b) op2 c) op3 d) op4    5min
+
+Q47
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q29
+a) op1 b) op2 c) op3 d) op4    3min
+
+q15     10min
+
+q19     5min
+
+q3     10min
+
+Total duration:70mins
+Q4
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q49
+a) op1 b) op2 c) op3 d) op4    7min
+
+Q27
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q68
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q6
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q8
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q44
+a) op1 b) op2 c) op3 d) op4    7min
+
+q6     15min
+
+q7     15min
+
+q3     10min
+
+Total duration:69mins
+Q18
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q3
+a) op1 b) op2 c) op3 d) op4    1min
+
+Q27
+a) op1 b) op2 c) op3 d) op4    3min
+
+Q17
+a) op1 b) op2 c) op3 d) op4    2min
+
+Q57
+a) op1 b) op2 c) op3 d) op4    8min
+
+Q52
+a) op1 b) op2 c) op3 d) op4    10min
+
+Q29
+a) op1 b) op2 c) op3 d) op4    3min
+
+q4     10min
+
+q7     15min
+
+q11     15min
+
